@@ -1,2 +1,16 @@
 
 /* Your CSS Code here. */
+body{
+	text-align:center;
+	background-color:lightgray;
+}
+a{
+	margin:10px;
+}
+img{
+	object-fit:cover;
+	margin-top:10px
+}
+li{
+	text-align:start
+}
